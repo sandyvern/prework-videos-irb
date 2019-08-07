@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-+ Explain why REPLs are useful
++ Describe why REPLs are useful for testing code
 + Use IRB to execute Ruby expressions
 + Identify return values in IRB
 + Define Evaluation in the context of a REPL
