@@ -15,9 +15,9 @@
 + Use IRB to execute Ruby expressions
 + Identify return values in IRB
 + Let's go ahead and get started. I'm here in the Learn IDE sandbox, and I'd like to have a way to quickly test out some code.
-+ Maybe I just learned about a new string method, or I'm not sure about what a line of code will return, but sometime it's nice to have a little playground if you will to test things out.
++ Maybe I just learned about a new string method, or I'm not sure about what a line of code will return, but sometime it's nice to have a little playground to test things out.
 + A really important part of programming is being able to ask yourself - what do you expect a line of code to do? And, did it do what you were expecting? If not, why not? So you really need to be able to test things out like this.
-+ One great way to do this is to use a REPL. REPL stands for Read, Evaluate, Print, and
++ One great way to do this is to use a REPL. REPL stands for Read, Evaluate, Print, and Loop
 + In this case, Evaluation means basically running one line of code and showing you what that one line would return.
 + Basically, these are quick interpreters that read the code, evaluate what it does, print you out the return value, and then start over again
 + Ruby comes with a built-in REPL called IRB - short for Interactive Ruby.
