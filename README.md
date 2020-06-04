@@ -23,7 +23,7 @@
 + Basically, these are quick interpreters that read the code, evaluate what it does, print you out the return value, and then start over again
 + Ruby comes with a built-in REPL called IRB - short for Interactive Ruby.
 + So, from my terminal, I can type irb and press enter
-+ Now, I see this carrot character at the start of the line, and I know I'm in my Interactive Ruby shell.
++ Now, I see this caret character at the start of the line, and I know I'm in my Interactive Ruby shell.
 + Any code I type here will be evaluated line by line, with the result of that line printed out.
 + When I type `1 + 1` and type enter - we see 2 is printed out. And this arrow-looking thing `=>` - that identifies that was the return value of the previous expression
 + In this case, I can see that the expression `1 + 1` did return what I was expecting. Now, let me test something else. If I do `"1" + "1"` - now, I might be expecting this to return `"2"` as a string. When I run this, I can see the return value is actually a string: `"11"`
